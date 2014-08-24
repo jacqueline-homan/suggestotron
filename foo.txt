@@ -1,0 +1,1 @@
+Just an illustration of adding a text file named "foo"
